@@ -1,6 +1,6 @@
 # Martin Karlsson
 
-Welcome! Below is my currently active repositories.
+Welcome! Below are my currently maintained repositories.
 
 ## Z-Wave Serial API
 
