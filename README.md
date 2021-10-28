@@ -8,7 +8,7 @@ C#/.NET API for controlling a Z-Wave network via the serial protocol of a USB-co
 
 This allows developers to create their own home automation solution.
 
-Install [`ZWaveSerialApi.Devices`](https://www.nuget.org/packages/ZWaveSerialApi.Devices) nuget and follow the [examples](zwaveserialapi/) to get started.
+Install [`ZWaveSerialApi.Devices`](https://www.nuget.org/packages/ZWaveSerialApi.Devices) nuget and follow the [examples](https://martin-repo.github.io/zwaveserialapi/) to get started.
 
 ## ESO addon framework
 
